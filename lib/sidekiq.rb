@@ -4,6 +4,7 @@ require 'sidekiq/logging'
 require 'sidekiq/client'
 require 'sidekiq/worker'
 require 'sidekiq/redis_connection'
+require 'sidekiq/api'
 
 require 'json'
 
